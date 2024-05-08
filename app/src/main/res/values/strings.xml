@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">design1</string>
+    <string name="username_hint">\n</string>
+    <string name="password_hint" />
+    <string name="login" />
+    <string name="forgot_password" />
+    <string name="register">register</string>
+    <string name="confirm_password_hint" />
+    <string name="email_hint" />
+    <string name="app_logo_description" />
+    <string name="welcome_title" />
+    <string name="welcome_description" />
+    <string name="sign_up" />
+    <string name="learn_more" />
+    <string name="name_hint" />
+    <string name="profile_picture_description" />
+    <string name="change_password" />
+    <string name="logout" />
+</resources>
